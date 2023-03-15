@@ -12,7 +12,7 @@
   margin: 0;
   padding: 100px;
   top: 18%;
-  left: 29%;
+  left: 35%;
   /* margin-right: -50%; */
   /* background-color: yellow; */
 }
@@ -67,7 +67,7 @@ h1 {
 .three {
   background-color: green;
 }
-h3 {
+button {
   border-radius: 50px;
   border: 1px solid black;
   padding: 10px;
